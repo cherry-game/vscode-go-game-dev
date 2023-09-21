@@ -1,0 +1,31 @@
+{
+  "name": "go-game-dev",
+  "displayName": "Go game development",
+  "description": "go游戏服务端开发扩展包",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Extension Packs",
+    "Programming Languages"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cherry-game/vscode-go-game-dev"
+  },
+  "license": "MIT",
+  "extensionPack": [ 
+    "golang.go", 
+    "tooltitudeteam.tooltitude", 
+    "peterj.proto",
+    "mhutchie.git-graph",
+    "zxh404.vscode-proto3",
+    "maracko.json-to-go",
+    "ms-vscode.makefile-tools",
+    "yzhang.markdown-all-in-one",
+    "hediet.vscode-drawio",
+    "vscode-icons-team.vscode-icons",
+    "zhuangtongfa.material-theme"
+  ]
+}
