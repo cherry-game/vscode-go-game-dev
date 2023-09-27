@@ -1,6 +1,6 @@
 {
   "name": "go-game-dev",
-  "displayName": "Go game development",
+  "displayName": "Go Game Development",
   "description": "go游戏服务端开发扩展包",
   "version": "0.0.1",
   "engines": {
